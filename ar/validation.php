@@ -70,7 +70,7 @@ return [
         'array'   => 'يجب أن يحتوي :attribute على أقل من :value عناصر/عنصر.',
     ],
     'lte' => [
-        'numeric' => 'يجب أن تكون قيمة :attribute مساوية أو أصغر من :value.',
+        'numeric' => 'يجب أن تكون قيممة :attribute مساوية أو أصغر من :value.',
         'file'    => 'يجب أن لا يتجاوز حجم الملف :attribute :value كيلوبايت.',
         'string'  => 'يجب أن لا يتجاوز طول النّص :attribute :value حروفٍ/حرفًا.',
         'array'   => 'يجب أن لا يحتوي :attribute على أكثر من :value عناصر/عنصر.',
